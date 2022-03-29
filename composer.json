@@ -12,20 +12,20 @@
     },
     "autoload": {
         "psr-4": {
-            "ShaanXiNetworkFreight\\": "src/"
+            "NetworkFreight\\": "src/"
         },
         "files": [
         ]
     },
     "autoload-dev": {
         "psr-4": {
-            "ShaanXiNetworkFreight\\Tests\\": "tests"
+            "NetworkFreight\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "ShaanXiNetworkFreight\\NetworkFreightServiceProvider"
+                "NetworkFreight\\NetworkFreightServiceProvider"
             ]
         }
     },
