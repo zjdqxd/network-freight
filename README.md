@@ -1,9 +1,9 @@
 # 陕西省网络货运省厅接口对接laravel扩展包
 
-[![Latest Stable Version](http://poser.pugx.org/zjdqxd/shaanxi-network-freight/v)](https://packagist.org/packages/zjdqxd/shaanxi-network-freight)
-[![Total Downloads](http://poser.pugx.org/zjdqxd/shaanxi-network-freight/downloads)](https://packagist.org/packages/zjdqxd/shaanxi-network-freight)
-[![Latest Unstable Version](http://poser.pugx.org/zjdqxd/shaanxi-network-freight/v/unstable)](https://packagist.org/packages/zjdqxd/shaanxi-network-freight)
-[![License](http://poser.pugx.org/zjdqxd/shaanxi-network-freight/license)](https://packagist.org/packages/zjdqxd/shaanxi-network-freight)
+[![Latest Stable Version](http://poser.pugx.org/zjdqxd/network-freight/v)](https://packagist.org/packages/zjdqxd/network-freight)
+[![Total Downloads](http://poser.pugx.org/zjdqxd/network-freight/downloads)](https://packagist.org/packages/zjdqxd/network-freight)
+[![Latest Unstable Version](http://poser.pugx.org/zjdqxd/network-freight/v/unstable)](https://packagist.org/packages/zjdqxd/network-freight)
+[![License](http://poser.pugx.org/zjdqxd/network-freight/license)](https://packagist.org/packages/zjdqxd/network-freight)
 
 
 # 介绍
