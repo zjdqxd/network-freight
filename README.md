@@ -44,7 +44,7 @@ app(NetworkFreightService::class)->reportTransport([
 
 安装成功后执行
 ```php
-php artisan vendor:publish --provider="ShaanXiNetworkFreight\NetworkFreightServiceProvider"
+php artisan vendor:publish --provider="NetworkFreight\NetworkFreightServiceProvider"
 
 ```
 会自动将`networkFreight.php`添加到您项目的配置文件当中
